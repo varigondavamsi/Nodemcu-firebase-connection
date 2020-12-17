@@ -1,7 +1,7 @@
 # Node-mcu--firebase-connection-
 The updated method to connect node mcu with firebase which acts as a real time database for all your projects.
-In this code i have used the library created by mobizt 
-link for the library https://github.com/mobizt/Firebase-ESP8266
+In this code i have used the library created by K. Suwatchai (Mobizt)
+link for the library Github: https://github.com/mobizt
 you can send data from any sensor by definiing the output at the firbase set line
 
 

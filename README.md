@@ -11,7 +11,7 @@ you can send data from any sensor by definiing the output at the firbase set lin
 
 
 ---------------------------------------------------------------------------------
-If the code not working, try following
+If the code isn't working, try following
 --------
 To have a error free data storage do the following steps:
 
